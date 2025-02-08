@@ -1,7 +1,0 @@
-torch==2.5.1+cu124
-torchvision
-torchaudio
-diffusers
-transformers
-gradio
-Pillow
